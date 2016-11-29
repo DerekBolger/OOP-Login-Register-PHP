@@ -1,0 +1,7 @@
+To check the ability to login as an admin or moderator, we can add this 
+functionality to a user via the phpmyadmin panel where we can assign a user to a 
+group with those permissions in the table. Please use the login details below to 
+demonstrate this functionality.
+
+Username: Daniel
+Password: digitalskills
